@@ -23,15 +23,16 @@ div {
 }
 
 #green {
+  border-top-color: #0f0;
+}
+
+#blue {
   border-top-color: #00f;
 }
 
 #indigo {
   border-top-color: #707;
 }
-#red {
-  border-top-color: #f00;
-}
-#red {
-  border-top-color: #f00;
+#violet {
+  border-top-color: #c0c;
 }
